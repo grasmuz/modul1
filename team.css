@@ -17,7 +17,7 @@ body {
     display: inline-block; 
 }
 .logo {
-    background: url('photo/u0.png') center/cover no-repeat;
+    background: url('/photo/u0.png') center/cover no-repeat;
     width: 80px;
     height: 80px;
 }
